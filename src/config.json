@@ -1,0 +1,16 @@
+{
+    "name": "The Cans",
+    "description": "The Cans is the best nft collection in the SEI network! mint now!",
+    "website": "",
+    "twitter": "",
+    "discord": "",
+    "rpc": "https://sei-testnet-2-rpc.brocha.in/",
+    "network": "atlantic-2",
+    "collection_address": "sei1uuuum0p9nttfmdlu5lljwg8wxequpssuwgmq6vuw6fgl0su2x3aqw4degn",
+    "nft_name_type": "default",
+    "groups": [
+        {
+            "name": "public"
+        }
+    ]
+}
